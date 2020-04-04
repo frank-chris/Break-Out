@@ -7,3 +7,9 @@ ___
 2. Works on smartphone and desktop browsers.  
 3. Adjusts according to window size, even if you resize during play.
 4. Displays score and lives. 
+
+### Play
+Try the game here.
+
+### Video
+See a demo video here.
