@@ -9,7 +9,7 @@ ___
 4. Displays score and lives. 
 
 ### Play
-Try the game here.
+Try the game [here](https://frank-chris.github.io/Break-Out/).
 
 ### Video
-See a demo video here.
+See a demo video [here](https://youtu.be/lb9prUtcMVM).
